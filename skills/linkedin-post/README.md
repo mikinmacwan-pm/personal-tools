@@ -1,6 +1,6 @@
 # LinkedIn Post Skill
 
-A Claude skill for creating career-advancing LinkedIn posts that signal seniority and attract recruiter attention for senior PM roles ($500K+).
+A Claude skill for creating career-advancing LinkedIn posts that signal seniority and attract recruiter attention for PM Leadership roles.
 
 ## Overview
 
