@@ -8,7 +8,7 @@ This skill helps you validate whether an idea is worth posting before investing 
 
 1. **Depth of Insight** — Does it reveal something non-obvious?
 2. **Seniority Signal** — Does it demonstrate you have solved hard problems at scale?
-3. **Recruiter Relevance** — Would a $500K+ PM hiring manager care?
+3. **Recruiter Relevance** — Would a PM hiring manager care?
 
 If your idea passes, the skill develops it into a polished, ready-to-post package:
 - Final post (max 400 words)
